@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+     background-color: rgb(106, 198, 198);
+ 
+ }
+ 
+ h1{
+     display: flex;
+     justify-content: end;
+     margin: 10px;
+     color: aliceblue;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ 
+ 
+ h2{
+     text-align: center;
+     font-size: 35px;
+     color: aliceblue;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ 
+ 
+ 
+ .box{
+     display: flex;
+     align-items: center;
+     text-align: center;
+     justify-content: center;
+     gap: 30px;
+ }
+ 
+ .caixa1{
+     text-align: center;
+     margin-top: 10px;
+     font-family: Arial, Helvetica, sans-serif;
+     color: aliceblue;
+   
+ }
+ 
+ .caixa2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+ 
+ 
+.words{
+    display: flex;
+    justify-content: center;
+}
+ 
+ 
+ li{
+     border-radius: 5px;
+     padding: 20px;
+     width: 15vw;
+     background-color: rgb(2, 73, 87);
+     margin-top: 30px;
+     list-style-type: none;
+ }
+ 
+ .box2{
+     display: flex;
+     align-items: center;
+     text-align: center;
+     justify-content: center;
+ 
+   
+ }
+ 
+ p{
+     margin-top: 30px;
+ }
+ 
+.modal {
+    align-items: center;
+    padding: 20px;
+    width: 500px;
+    height: 400px;
+    display: block;
+    background-color: rgb(63, 148, 154);
+    box-shadow: 5px 7px 10px rgb(11, 74, 92);
+    border-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    margin-top: 25px;
+}
+ 
+.ol{margin-top: 12px;
+    justify-content: baseline;
+    text-align: justify;
+}
+
+.box3{
+    margin-top: 30px ;
+    display: flex;
+    justify-content: center;
+
+}
+
+.contot{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.modulo{
+
+    height: 300px;
+    width: 800px;
+    margin-left: 250px;
+    background-color: rgb(63, 148, 154);
+    box-shadow: 5px 7px 10px rgb(11, 74, 92);
+    border-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
